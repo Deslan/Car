@@ -1,15 +1,14 @@
-# Java Test - Fluidity Software Solutions
+# Java Test
 
 
-## Getting Started
+## Get code production ready
 
-Please take a look at the car class.
+#### Applied SOLID principles
 
-#### Please refactor the code to what you would consider acceptable production quality by your standards.
+#### Clean code
 
-#### There is no time limit.
+#### Added a test
 
-#### Please stick to normal coding standards.
+#### Made it a maven project and used spring boot
 
-#### Please zip up your source code and submit it for review.
-
+#### Used lombok and slf4j
